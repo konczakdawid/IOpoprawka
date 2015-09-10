@@ -1,0 +1,6 @@
+print("Podaj pierwszą liczbę: ")
+liczba1 = input()
+print("Podaj drugą liczbę: ")
+liczba2 = input()
+suma = int(liczba1) + int(liczba2)
+print("Wynik sumowania wynosi: ", suma)
